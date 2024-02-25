@@ -282,6 +282,9 @@ ul {
 	.textarea {
 		padding: 20px;
 	}
+	.myself {
+		padding: 20px;
+	}
 
 	.image {
 		order: -1;
